@@ -37,5 +37,4 @@ Issues and Troubleshooting:   </br>
 Contact Information:   </br>
  email: bavisettipavankalyan2017@gmail.com  </br>
  phone: 9390717571  </br>
-- Include your contact information for any queries or assistance during the evaluation.  </br>
 
