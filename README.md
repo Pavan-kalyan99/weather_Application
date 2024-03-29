@@ -11,15 +11,15 @@ Getting weather data for various locations worldwide. It offers current weather 
 How to Run the Application:
 clone the repo: git clone
 - Clearly outline the steps to set up and run the application locally.
-
+</br>
 Dependencies:
   tailwind </br>
-  Axios    :      npm install axios
- Loading Spinner: npm install react-loader-spinner --save
- Notification:    npm install --save react-toastify
+  Axios    :      npm install axios </br>
+ Loading Spinner: npm install react-loader-spinner --save </br>
+ Notification:    npm install --save react-toastify  </br>
 
 
-- List any external libraries, frameworks, or tools required to run the application.
+- List any external libraries, frameworks, or tools required to run the application. </br>
 
 Installation Instructions:
 1.npm create vite@latest my-project -- --template react
