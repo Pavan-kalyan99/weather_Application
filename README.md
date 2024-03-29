@@ -13,7 +13,7 @@ clone the repo: git clone
 - Clearly outline the steps to set up and run the application locally.
 
 Dependencies:
-  tailwind :
+  tailwind </br>
   Axios    :      npm install axios
  Loading Spinner: npm install react-loader-spinner --save
  Notification:    npm install --save react-toastify
