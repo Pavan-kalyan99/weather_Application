@@ -4,18 +4,14 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-================================
 Assignment Overview:
 Getting weather data for various locations worldwide. It offers current weather conditions, forecasts, and other meteorological information.
 
-========================================================
+
 How to Run the Application:
 clone the repo: git clone
 - Clearly outline the steps to set up and run the application locally.
-=====================================
+
 Dependencies:
   tailwind :
   Axios    :      npm install axios
@@ -24,7 +20,7 @@ Dependencies:
 
 
 - List any external libraries, frameworks, or tools required to run the application.
-========================================================
+
 Installation Instructions:
 1.npm create vite@latest my-project -- --template react
 2.cd my-project
