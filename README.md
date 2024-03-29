@@ -35,11 +35,11 @@ Configuration:  </br>
 Testing:  </br>
 - If applicable, provide information on how to run tests and ensure the application's correctness.
 
-Issues and Troubleshooting:
-- Mention common issues users might encounter and provide guidance on how to troubleshoot them.
-========================================================
-Contact Information:
- email: bavisettipavankalyan2017@gmail.com
- phone: 9390717571
-- Include your contact information for any queries or assistance during the evaluation.
-========================================================
+Issues and Troubleshooting:   </br>
+- Mention common issues users might encounter and provide guidance on how to troubleshoot them.   </br>
+
+Contact Information:   </br>
+ email: bavisettipavankalyan2017@gmail.com  </br>
+ phone: 9390717571  </br>
+- Include your contact information for any queries or assistance during the evaluation.  </br>
+
