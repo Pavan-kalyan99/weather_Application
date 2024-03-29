@@ -21,21 +21,20 @@ Dependencies:
 
 - List any external libraries, frameworks, or tools required to run the application. </br>
 
-Installation Instructions:
-1.npm create vite@latest my-project -- --template react
-2.cd my-project
-3.npm install -D tailwindcss postcss autoprefixer
-4.npx tailwindcss init -p
+Installation Instructions:  </br>
+1.npm create vite@latest my-project -- --template react  </br>
+2.cd my-project  </br>
+3.npm install -D tailwindcss postcss autoprefixer   </br>
+4.npx tailwindcss init -p   </br>
 
 
-- Include detailed instructions on how to install any dependencies and set up the development environment.
-========================================================
-Configuration:
-- Specify any configuration settings or files that need attention.
-========================================================
-Testing:
+- Include detailed instructions on how to install any dependencies and set up the development environment.  </br>
+Configuration:  </br>
+- Specify any configuration settings or files that need attention.  </br>
+    
+Testing:  </br>
 - If applicable, provide information on how to run tests and ensure the application's correctness.
-========================================================
+
 Issues and Troubleshooting:
 - Mention common issues users might encounter and provide guidance on how to troubleshoot them.
 ========================================================
