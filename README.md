@@ -1,10 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-Assignment Overview:
+<h2>Assignment Overview:</h2>
 Getting weather data for various locations worldwide. It offers current weather conditions, forecasts, and other meteorological information.
 
 
