@@ -1,26 +1,29 @@
 
-import './App.css'
-import UserLocation from './components/UserLocation'
-import Search from './components/Search'
-import Navigationbar from './components/Navigationbar'
-//notificcation from 'react-toastify'
-import { ToastContainer} from 'react-toastify';
-import 'react-toastify/dist/ReactToastify.css';
+import './App.css';
+import {Routes,Route} from 'react-router-dom'
+import Header from './FoodComponents/Header';
+import About from './FoodComponents/About';
+import RecipeList from './FoodComponents/RecipeList';
+import Details from './FoodComponents/Details';
+import PageNotFound from './FoodComponents/PageNotFound';
 function App() {
 
   return (
-   <>
 
-<Navigationbar/>
 
-<div className='grid lg:grid-cols-2  sm:grid-cols-1 md:grid-cols-2 gap-2'>
-   <Search/>
-   <UserLocation/>
+<>
+<Header/>
+<Routes>
+  
+<Route path='/' element={<RecipeList/>}/>
+<Route path='/about' element={<About/>}/>
+<Route path='/details/:id' element={<Details/>}/>
+<Route  path='*' element={<PageNotFound/>}/>
 
-</div>
-  <ToastContainer />
-   </>
+</Routes>
+</>
   )
 }
 
 export default App
+
